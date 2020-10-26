@@ -3,7 +3,7 @@ import statistics as stat
 import math as math
 
 
-class DataProcess(object):
+class DataProcess(object):  # technical analysis class
     def __init__(self):
         self.result = []
         self.history = []

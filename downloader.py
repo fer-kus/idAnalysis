@@ -3,7 +3,7 @@ from pandas_datareader import data
 from pandas_datareader._utils import RemoteDataError
 
 
-class Taker(object):
+class Taker(object):  # data processor class
     def __init__(self):
         self.data_filename = 'data.h5'
         self.data_source = pd.DataFrame([])

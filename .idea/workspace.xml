@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="640573ef-53db-4738-97e9-d8beb65214fb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j5uZ2EoNCk8O5kmZxl4MGyQFHs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,6 +75,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="332" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603436412308">
       <screen x="0" y="0" width="1200" height="760" />
@@ -103,10 +128,10 @@
       <screen x="0" y="0" width="1200" height="760" />
     </state>
     <state x="111" y="26" key="SettingsEditor/0.0.1200.760@0.0.1200.760" timestamp="1603703184463" />
-    <state x="211" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603707648410">
+    <state x="211" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603708588408">
       <screen x="0" y="0" width="1200" height="760" />
     </state>
-    <state x="211" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1200.760@0.0.1200.760" timestamp="1603707648410" />
+    <state x="211" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1200.760@0.0.1200.760" timestamp="1603708588408" />
     <state x="263" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1603432205868">
       <screen x="0" y="0" width="1200" height="760" />
     </state>

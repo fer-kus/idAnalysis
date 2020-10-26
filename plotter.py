@@ -3,7 +3,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import pandas as pd
 
 
-class PlotData(object):
+class PlotData(object):  # Plotting class
     def __init__(self, plot_size, font_size):
         self.plot = plt
         self.plot.rcParams.update({'font.size': font_size})

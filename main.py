@@ -4,6 +4,7 @@ import pandas as pd
 import plotter as pt
 import tkinter as tk
 
+# Collection of method to use
 tech_meth = [
     ("Absolute Price Oscillator", 1),
     ("Bollinger Bands", 2),
@@ -14,6 +15,7 @@ tech_meth = [
     ("Simple Moving Average", 7),
     ("Standard Deviation", 8)]
 
+# Stock descriptions data to take
 stock_name = 'GOOG'
 start_date = '2014-01-01'
 end_date = '2018-01-01'
