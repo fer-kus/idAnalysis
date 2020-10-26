@@ -1,0 +1,2 @@
+# idAnalysis
+ Technical analysis

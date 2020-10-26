@@ -1,0 +1,4 @@
+matplotlib>=3.3
+numpy>=1.19
+pandas>=1.1
+pandas-datareader>=0.9
